@@ -1,4 +1,4 @@
-## [link to faceapp git repository](https://github.com/I-am-Shir/Faceapp)
+## [link to Fakebook_Android_App git repository](https://github.com/EliyahuYadegari/Fakebook_Android_App.git)
 # Fakebook - Social Networking Android Application
 Fakebook is a social networking Android application that allows users to create profiles, log in, post content, and interact with existing posts through likes and comments.
 In its present iteration, the app allows for the registration of users and loads posts from a JSON file received from the server. Rerunning the application does not affect the user created, seeing as it's been added to the servers database.
